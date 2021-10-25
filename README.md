@@ -10,3 +10,4 @@ You can also check out my most commonly used code snippets [here.](https://githu
 - [UIEffect](https://github.com/mob-sakai/UIEffect) - Collection of visual effects for Unity UI such as pixilation, grayscale, dissolve, etc.
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Collection of attributes and extensions for the Unity inspector.
 - [XCharts](https://github.com/monitor1394/unity-ugui-XCharts) - Series of data visualization assets, such as line charts, pie graphs, scatter plots, etc.
+- [Unity-UI-Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/src/release/) - Collection of extensions for Unity's UI system
